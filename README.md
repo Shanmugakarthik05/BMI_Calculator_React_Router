@@ -374,7 +374,8 @@ footer {
 ```
 ## OUTPUT
 ![alt text](BMI.png)
-![alt text](<Screenshot (53).png>)
 ![alt text](<Screenshot (54).png>)
+![alt text](<Screenshot (57).png>)
+![alt text](<Screenshot (56).png>)
 ## RESULT
 The BMI Calculator successfully takes user input for height and weight, performs the BMI calculation in real-time using React state and event handling, and displays the BMI value along with the corresponding health category.
